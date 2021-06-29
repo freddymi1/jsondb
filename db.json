@@ -101,14 +101,18 @@
             "name": "Freddy",
             "lastName": "Michel",
             "email": "michelfreddy1992@gmail.com",
-            "role": "Admin"
+            "role": "Admin",
+            "username": "admin",
+            "password" "Admin123"
         },
         {
             "id": 2,
             "name": "Michel",
             "lastName": "Freddy",
             "email": "michelfreddys@gmail.com",
-            "role": "Other"
+            "role": "Other",
+            "username": "Other",
+            "password" "Other123"
         }
     ]
 }
