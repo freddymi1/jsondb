@@ -1,0 +1,114 @@
+{
+    "task": [
+        {
+            "tech": "Will Smith",
+            "status": "Approuver",
+            "task": "Tache 1"
+        },
+        {
+            "tech": "Jackline Joy",
+            "status": "Approuver",
+            "task": "tache 2"
+        },
+        {
+            "tech": "Alu Arjun",
+            "status": "Approuver",
+            "task": "Tache 3"
+        },
+        {
+            "tech": "Kavitha Kumar",
+            "status": "Approuver",
+            "task": "Tache 4",
+            "photo": "assets/avatar/4.jpg"
+        },
+        {
+            "tech": "John Snow",
+            "status": "Approuver",
+            "task": "tache 5"
+        },
+        {
+            "tech": "Priya kanana",
+            "status": "Approuver",
+            "task": "Tache 6"
+        },
+        {
+            "tech": "Shri Devi",
+            "status": "Approuver",
+            "task": "Tache 7"
+        }
+        
+    ],
+    "technicien": [
+        {
+            "id": 1,
+            "name": "Lita",
+            "lastname": "Kely",
+            "dateBirth": "30/02/1990",
+            "mobile": "0342145780",
+            "rue": "Tana",
+            "ville": "Tana",
+            "pays": "Madagascar",
+            "email": "litakely@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Jean Bolida",
+            "lastname": "Kely",
+            "dateBirth": "30/02/1998",
+            "mobile": "0342145781",
+            "rue": "Tana",
+            "ville": "Tana",
+            "pays": "Madagascar",
+            "email": "jeanb@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Lita kely ra zan",
+            "lastname": "Kelyb",
+            "dateBirth": "30/02/1940",
+            "mobile": "0322145780",
+            "rue": "Tana",
+            "ville": "Tana",
+            "pays": "Madagascar",
+            "email": "litakely1@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Mahajanga gista",
+            "lastname": "Kelybe",
+            "dateBirth": "30/02/1991",
+            "mobile": "0332145780",
+            "rue": "Mahajanga",
+            "ville": "Tana",
+            "pays": "Mahajanga",
+            "email": "batoto@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Mazia",
+            "lastname": "Kely",
+            "dateBirth": "30/02/1994",
+            "mobile": "0348145780",
+            "rue": "Tamatave",
+            "ville": "Tamatave",
+            "pays": "Madagascar",
+            "email": "mazia@gmail.com"
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "name": "Freddy",
+            "lastName": "Michel",
+            "email": "michelfreddy1992@gmail.com",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "name": "Michel",
+            "lastName": "Freddy",
+            "email": "michelfreddys@gmail.com",
+            "role": "Other"
+        }
+    ]
+}
